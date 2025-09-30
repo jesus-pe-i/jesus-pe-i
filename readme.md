@@ -11,4 +11,4 @@ I have worked for 7 years:
 
 In my free time I love teaching, hiking, playing the guitar and videogames. I have taught for 1.5 years at _Universidad Panamericana_ for the BSc in Economics, courses in Econometrics and Statistical Inference, and I hope to continue teaching similar subjects in the future.
 
-Check [hear](https://www.linkedin.com/in/jesus-antonio-pinera-esquivel/) for my LinkedIn if you want to connect!
+Check [here](https://www.linkedin.com/in/jesus-antonio-pinera-esquivel/) for my LinkedIn if you want to connect!
