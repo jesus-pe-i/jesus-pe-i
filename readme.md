@@ -1,4 +1,4 @@
-# Summary abut meself
+# Summary about myself
 
 Hello, my name is Jesus Pinera. I am from Mexico, and studied a double bachelor's degree on Actuarial Sciences and Financial Management from _Instituto Tecnológico Autónomo de México_. I am currently studying the MSc in Statistics at Imperial, branching to Statistical Finance. I am really interested in risk analytics and would like to study and work in the future around these topics.
 
