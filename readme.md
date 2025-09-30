@@ -14,3 +14,6 @@ In my free time I love teaching, hiking, playing the guitar and videogames. I ha
 Check [here](https://www.linkedin.com/in/jesus-antonio-pinera-esquivel/) for my LinkedIn if you want to connect!
 
 Click [here](https://www.imperial.ac.uk/study/courses/postgraduate-taught/statistics/) for the details on the MSc in Statistics at Imperial.
+
+---
+Last updated: 30-09-2024
