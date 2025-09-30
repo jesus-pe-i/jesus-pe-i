@@ -16,4 +16,4 @@ Check [here](https://www.linkedin.com/in/jesus-antonio-pinera-esquivel/) for my 
 Click [here](https://www.imperial.ac.uk/study/courses/postgraduate-taught/statistics/) for the details on the MSc in Statistics at Imperial.
 
 ---
-Last updated: 30-09-2024
+Last updated: 30-09-2025
