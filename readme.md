@@ -10,3 +10,5 @@ I have worked for 7 years:
 - Data Analytics Consultant at a Mexican pharmaceutical distributor, focused on demand forecasting and logistics optimization.
 
 In my free time I love teaching, hiking, playing the guitar and videogames. I have taught for 1.5 years at _Universidad Panamericana_ for the BSc in Economics, courses in Econometrics and Statistical Inference, and I hope to continue teaching similar subjects in the future.
+
+Check [here](www.linkedin.com/in/jesus-antonio-pinera-esquivel) for my LinkedIn if you want to connect!
