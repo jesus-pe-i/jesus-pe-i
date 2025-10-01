@@ -1,19 +1,31 @@
-# Summary about myself
+### About Me  
 
-Hello, my name is Jesus Pinera. I am from Mexico, and studied a double bachelor's degree on Actuarial Sciences and Financial Management from _Instituto Tecnológico Autónomo de México_. I am currently studying the MSc in Statistics at Imperial, branching to Statistical Finance. I am really interested in risk analytics, and have researched around simulation for credit risk analysis and copula-mGARCH methods for market risk analysis.
+Hi, I’m Jesus Pimera 👋  
 
-I have worked for 7 years:
-- Research Assistant at my university for a professor of the statistics department, researching macroeconometrics.
-- Intern in a Search Fund, working on industry analysis and financial statement modelling.
-- Financial Researcher at Mexico's Central Bank (Banco de México), focused on banking institutions' credit risk analysis.
-- Financial Model Risk Manager at HSBC, focused on model risk of time series models.
-- Data Analytics Consultant at a Mexican pharmaceutical distributor, focused on demand forecasting and logistics optimization.
+I’m currently pursuing an **MSc in Statistics (Statistical Finance)** at **Imperial College London**. My main interests are **applied statistics, risk analytics, and time series methods**, with recent work on simulation for credit risk, copula–GARCH models for market risk, route optimization, and large-scale forecasting.  
 
-In my free time I love teaching, hiking, playing the guitar and videogames. I have taught for 1.5 years at _Universidad Panamericana_ for the BSc in Economics, courses in Econometrics and Statistical Inference, and I hope to continue teaching similar subjects in the future.
+I hold a **double bachelor’s degree in Actuarial Science and Financial Management** from ITAM (Mexico), graduating *summa cum laude*. I’ve also completed postgraduate diplomas in **Applied AI (UNAM)** and **Geostatistics (CIMAT)**.  
 
-Check [here](https://www.linkedin.com/in/jesus-antonio-pinera-esquivel/) for my LinkedIn if you want to connect!
-
-Click [here](https://www.imperial.ac.uk/study/courses/postgraduate-taught/statistics/) for the details on the MSc in Statistics at Imperial.
+I have 7+ years of professional experience spanning:  
+- **Central Banking (Banco de México)** — credit risk analysis & simulation  
+- **HSBC** — financial model risk (time series & balance sheet models)  
+- **Pharma industry** — demand forecasting, churn analysis, logistics optimization  
+- **Teaching** — econometrics & statistics at Universidad Panamericana (lecturer) and ITAM (TA)
 
 ---
-Last updated: 30-09-2024
+
+### Research & Projects  
+
+- **Risk Analytics** — Credit portfolio simulation with multi-factor models | Market risk with copula–GARCH methods | Bayesian estimation of default probabilities and correlations.  
+- **Time Series & Forecasting** — Nowcasting with Bridge OLS, MIDAS & Dynamic Factor Models | GDP nowcasting with SARIMAX vs LSTM | Long-term temperature forecasting with VAR & spatial ARIMA.  
+- **Applied Data Science** — Large-scale demand forecasting with XGBoost & deep learning | Client churn analysis with survival models | Logistics calculator using OSRM + Google Maps API.  
+
+---
+
+### Beyond Work  
+
+Outside of analytics I enjoy **teaching, hiking, playing guitar, and videogames**.  
+
+📎 [LinkedIn](www.linkedin.com/in/jesus-antonio-pinera-esquivel)
+
+📘 [Imperial MSc in Statistics (Statistical Finance)](https://www.imperial.ac.uk/study/courses/postgraduate-taught/statistics-statistical-finance/)  
